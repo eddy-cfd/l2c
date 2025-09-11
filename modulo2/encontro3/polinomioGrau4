@@ -1,0 +1,1 @@
+Um polinômio com 4 raízes reais pode ser construído utilizando as raízes como fatores. Por exemplo, um polinômio com raízes 1, -1, 2 e -2 seria (x-1)(x+1)(x-2)(x+2) = (x² - 1)(x² - 4) = x⁴ - 5x² + 4. 
